@@ -15,9 +15,9 @@ PORT = 3306
 # 数据库用户名
 USERNAME = 'root'
 # 数据库密码
-PASSWORD = 'root'
+PASSWORD = 'Angel0512'
 # 数据库名
-BASENAME = 'test'
+BASENAME = 'JOBDATA'
 # 编码类型
 CHARSET = 'utf8'
  
